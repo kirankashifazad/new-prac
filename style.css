@@ -313,7 +313,11 @@ color:rgb(112, 112, 195);
     justify-content: space-between;
    }
   
-
+  nav{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 100000 !important;
+  }
   
 
   
